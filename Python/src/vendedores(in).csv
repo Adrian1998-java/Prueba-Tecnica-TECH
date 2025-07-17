@@ -1,0 +1,61 @@
+ID Vendedor;Nombre;Email;Idioma;País;Equipo;Status
+1;Ashley Rodriguez;ashley.rodriguez@tech.com;EN;Brasil;VC-Alemania-ES;activo
+2;Sara Miller;sara.miller@tech.com;EN;Alemania;VC-Estados Unidos-EN;baja
+3;Ivan Robinson;ivan.robinson@tech.com;EN;China;VC-España-ES;baja
+4;Phillip Miller;phillip.miller@tech.com;EN;Estados Unidos;VC-España-EN;activo
+5;Hannah Nelson;hannah.nelson@tech.com;EN;Francia;VC-Estados Unidos-EN;baja
+6;John Brown;john.brown@tech.com;EN;Francia;VC-Estados Unidos-EN;activo
+7;Edward Valdez;edward.valdez@tech.com;ES;Francia;VC-Alemania-ES;baja
+8;Tyler Murray MD;tyler.murray.md@tech.com;ES;Estados Unidos;VC-Alemania-EN;activo
+9;Frank Meadows;frank.meadows@tech.com;ES;Alemania;VC-Alemania-EN;baja
+10;Barbara Stevens;barbara.stevens@tech.com;ES;Alemania;VC-España-ES;activo
+11;Traci Anderson;traci.anderson@tech.com;ES;Italia;VC-España-EN;baja
+12;Linda Brandt;linda.brandt@tech.com;ES;Italia;VC-Estados Unidos-ES;activo
+13;Thomas Wilcox;thomas.wilcox@tech.com;ES;España;VC-Alemania-ES;baja
+14;Erin Moore;erin.moore@tech.com;ES;Reino Unido;VC-Estados Unidos-ES;activo
+15;Sandra Sanchez;sandra.sanchez@tech.com;EN;Francia;VC-Estados Unidos-EN;activo
+16;Gloria Williams;gloria.williams@tech.com;EN;India;VC-España-EN;baja
+17;Melvin Ellis;melvin.ellis@tech.com;EN;China;VC-Alemania-ES;baja
+18;Ronald Phelps;ronald.phelps@tech.com;EN;Reino Unido;VC-España-EN;baja
+19;Debra Myers;debra.myers@tech.com;ES;Japón;VC-Estados Unidos-ES;activo
+20;Joshua Bush;joshua.bush@tech.com;ES;Japón;VC-Estados Unidos-EN;baja
+21;Kyle Bailey;kyle.bailey@tech.com;ES;Alemania;VC-Alemania-EN;activo
+22;Peter Black;peter.black@tech.com;ES;Estados Unidos;VC-Estados Unidos-EN;baja
+23;Heidi Snyder;heidi.snyder@tech.com;ES;Japón;VC-España-EN;baja
+24;Michele Scott;michele.scott@tech.com;EN;Francia;VC-Estados Unidos-ES;activo
+25;Keith Pearson;keith.pearson@tech.com;EN;Brasil;VC-Alemania-ES;baja
+26;Barbara Austin;barbara.austin@tech.com;EN;Brasil;VC-España-ES;baja
+27;Joanna Williamson;joanna.williamson@tech.com;ES;Reino Unido;VC-Alemania-ES;activo
+28;Michael Lee;michael.lee@tech.com;EN;Francia;VC-Alemania-ES;baja
+29;Michael Watts;michael.watts@tech.com;EN;Alemania;VC-Estados Unidos-EN;activo
+30;Rachel Lozano;rachel.lozano@tech.com;EN;Italia;VC-Estados Unidos-EN;activo
+31;Cory Mclean;cory.mclean@tech.com;ES;España;VC-Estados Unidos-EN;activo
+32;Matthew Brock;matthew.brock@tech.com;ES;India;VC-España-EN;baja
+33;Jenny Thornton;jenny.thornton@tech.com;EN;Francia;VC-Alemania-ES;activo
+34;Scott Howard;scott.howard@tech.com;EN;India;VC-Alemania-EN;baja
+35;Tim Braun;tim.braun@tech.com;EN;Japón;VC-España-EN;activo
+36;John Taylor;john.taylor@tech.com;ES;Estados Unidos;VC-Alemania-ES;activo
+37;Steven Sherman MD;steven.sherman.md@tech.com;ES;Alemania;VC-España-EN;baja
+38;Robert Garcia;robert.garcia@tech.com;EN;Brasil;VC-Alemania-ES;baja
+39;Maria Reed;maria.reed@tech.com;ES;España;VC-Alemania-ES;activo
+40;Alex Weaver;alex.weaver@tech.com;ES;España;VC-Estados Unidos-ES;baja
+41;Joshua Nielsen;joshua.nielsen@tech.com;ES;Francia;VC-España-ES;activo
+42;Jacqueline Caldwell;jacqueline.caldwell@tech.com;ES;China;VC-España-ES;baja
+43;Elizabeth Peterson;elizabeth.peterson@tech.com;ES;Francia;VC-España-EN;baja
+44;Erika Garcia;erika.garcia@tech.com;EN;China;VC-España-EN;activo
+45;Matthew Boyd;matthew.boyd@tech.com;EN;Alemania;VC-España-EN;activo
+46;Jose Owens;jose.owens@tech.com;EN;China;VC-España-EN;activo
+47;Stephen Smith;stephen.smith@tech.com;ES;España;VC-Estados Unidos-EN;activo
+48;Francisco Williams;francisco.williams@tech.com;EN;Estados Unidos;VC-Estados Unidos-EN;baja
+49;Jamie Howe;jamie.howe@tech.com;EN;Estados Unidos;VC-Estados Unidos-EN;activo
+50;Michele Jones;michele.jones@tech.com;EN;España;VC-Alemania-EN;baja
+51;Robert Stephens;robert.stephens@tech.com;EN;China;VC-Estados Unidos-EN;baja
+52;Caroline Kelley;caroline.kelley@tech.com;EN;Estados Unidos;VC-Alemania-EN;activo
+53;Michelle Bennett;michelle.bennett@tech.com;ES;España;VC-España-ES;baja
+54;Morgan Owens;morgan.owens@tech.com;EN;China;VC-España-EN;activo
+55;Joshua Harris;joshua.harris@tech.com;ES;India;VC-Estados Unidos-EN;activo
+56;Thomas Reyes;thomas.reyes@tech.com;ES;China;VC-Alemania-EN;activo
+57;Gabriel Berger;gabriel.berger@tech.com;ES;Japón;VC-Estados Unidos-ES;baja
+58;Samantha Raymond;samantha.raymond@tech.com;ES;Francia;VC-Alemania-EN;activo
+59;Shirley Carter;shirley.carter@tech.com;ES;Francia;VC-Estados Unidos-ES;activo
+60;Ellen Chavez;ellen.chavez@tech.com;EN;Reino Unido;VC-Estados Unidos-ES;baja
